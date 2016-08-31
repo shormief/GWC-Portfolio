@@ -1,0 +1,43 @@
+body {
+  font-family: Georgia, Times, Times New Roman, serif;
+  background-image: url("Blue%20Wood.jpg");
+}
+h1 {
+  color: black;
+  text-align: center;
+/*  background-color: aliceblue; */
+}
+h2 {
+  text-align: center;
+  color: black;
+/*  background-color: aliceblue;*/
+}
+h4 {
+  text-align: center;
+  color: black;
+/*  background-color: aliceblue;*/
+}
+p {
+  color:black;
+/*  background-color:aliceblue;*/
+}
+ul {
+/*  background-color: aliceblue;*/
+}
+img.Poster {
+  margin: auto;
+  display: block;
+  
+}
+button {
+  background-color: black; /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: auto;
+  display: block;
